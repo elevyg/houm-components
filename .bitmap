@@ -11,27 +11,15 @@
 {
     "controlled-components/textfield": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "scope/controlled-components/textfield",
-        "nextVersion": {
-            "version": "patch",
-            "message": "",
-            "username": "elevyg",
-            "email": "elevyg91@gmail.com"
-        }
+        "rootDir": "scope/controlled-components/textfield"
     },
     "custom/textfield": {
         "scope": "",
-        "version": "",
+        "version": "0.0.1",
         "mainFile": "index.ts",
-        "rootDir": "scope/custom/textfield",
-        "nextVersion": {
-            "version": "patch",
-            "message": "",
-            "username": "elevyg",
-            "email": "elevyg91@gmail.com"
-        }
+        "rootDir": "scope/custom/textfield"
     },
     "$schema-version": "14.9.0"
 }
