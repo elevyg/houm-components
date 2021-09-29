@@ -27,7 +27,7 @@
     /**
      * default scope for all components in workspace.
      **/
-    "defaultScope": "elevyg.houm-community"
+    "defaultScope": "remote-scope"
   },
   /**
    * main configuration for component dependency resolution.

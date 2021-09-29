@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import {Textfield as CustomTextField} from "@elevyg/houm-community.custom.textfield";
+import {Textfield as CustomTextField} from "@remote-scope/custom.textfield";
 import { Controller, useFormContext } from "react-hook-form";
 
 export interface TextfieldProps {

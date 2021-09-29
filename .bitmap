@@ -10,13 +10,13 @@
 
 {
     "controlled-components/textfield": {
-        "scope": "",
+        "scope": "remote-scope",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "scope/controlled-components/textfield"
     },
     "custom/textfield": {
-        "scope": "",
+        "scope": "remote-scope",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "scope/custom/textfield"
